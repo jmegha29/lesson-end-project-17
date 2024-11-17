@@ -1,4 +1,4 @@
 include<std>;
-sum{
+diff{
 reutun a+b;
 }
